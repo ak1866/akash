@@ -1,0 +1,2 @@
+# akash
+learning basic javascript
